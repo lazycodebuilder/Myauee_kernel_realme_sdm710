@@ -32,7 +32,9 @@
 #endif
 
 #dts-dirs += 19651
-dts-dirs += 18621
+dts-dirs += 18621-rui2
+dts-dirs += 18621-rui1
+dts-dirs += 18621-cos6
 #dts-dirs += qcom
 
 #endif
